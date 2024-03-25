@@ -61,7 +61,7 @@
     "neededStockSingular": "Parts\nNeeded", "@neededStockSingular": {"description": "Stock needed"},
     "stockPlural": "Parts", "@stockPlural": {"description": "Stocks - label for the count of part type/color variants a user has"},
     "partPlural": "Pieces", "@partPlural": {"description": "Parts - label for the total quantity of individual pieces of all type"},
-    "neededStockPlural": "Parts Needed", "@neededStockPlural": {"description": "Stocks needed"},
+    "neededStockPlural": "Parts Wanted", "@neededStockPlural": {"description": "Stocks needed"},
     "searchInMyStockEntry": "Search your inventory...", "@searchInMyStockEntry": {"description": "Search in my stock... for entry"},
     "filters": "Sort by:", "@filters": {"description": "Sort by:"},
     "filterByCreationDate": "Date created (default)", "@filterByCreationDate": {"description": "Filter by creation date"},
