@@ -20,49 +20,6 @@
 
 4. Submit the Issue: Once you've provided all the necessary information, click on the "Submit new issue" button to create the issue. Your suggestion will be reviewed by the repository maintainers.
 
-## How to Contribute with Git
-### 1. Clone the Repository
-Clone the original repository directly to your local machine:
-```
-git clone git@github.com:brickassist-app/brickassist-translations.git
-```
-
-### 2. Create a New Branch
-Create a new branch to work on your translations:
-```
-git checkout -b my-new-branch
-```
-Replace my-new-branch with a descriptive branch name related to your changes (if possible)
-
-### 3. Translate or Modify Existing Translations
-Navigate to the appropriate language folder within the repository. If your language is not available, you can create a new file following the existing structure.
-Edit the language file using a text editor. Translate the strings or modify existing translations as needed.
-
-### 4. Commit Changes
-Once you've made your translations, commit your changes with a descriptive message:
-```
-git add .
-git commit -m "Fixing a typo on 'baguette' in the French translation"
-```
-
-### 5. Push Changes
-Push your changes to the original repository:
-
-```
-git push origin my-new-branch
-```
-
-### 6. Create a Pull Request
-Go to the original repository on GitHub and click on the "Pull Request" button. Provide a descriptive title and explanation of your changes.
-Once reviewed, your changes will be merged into the main project.
-
-### 7. Stay Updated
-Keep your local repository updated with the latest changes from the original repository to avoid conflicts:
-```
-git checkout master
-git pull origin master
-```
-
 ## Copyright and Usage Notice
 ### About This Repository
 This repository contains translations for the BrickAssist application (brickassist.com). Each file within this repository corresponds to translations used within the application's interface and content.
