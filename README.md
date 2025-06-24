@@ -67,6 +67,16 @@ For more information about the main project, visit our website: [BrickAssist.com
     - Click on "Compare & Pull Request". Make sure to write a clear description of what your changes do.
     - Submit the Pull Request. This will notify the maintainers of the original repository that you want them to review and possibly merge your changes.
 
+### Validating ARB Files
+Before opening a pull request, you can verify that all `.arb` files share the same
+set of keys. Run the validation script from the repository root:
+
+```bash
+python3 scripts/check_arb_keys.py
+```
+
+If any file is missing keys or contains extra ones, the script will list them.
+
 ## Copyright and Usage Notice
 ### About This Repository
 This repository contains translations for the BrickAssist application (brickassist.com). Each file within this repository corresponds to translations used within the application's interface and content.
