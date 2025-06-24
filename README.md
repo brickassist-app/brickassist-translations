@@ -76,6 +76,8 @@ python3 scripts/check_arb_keys.py
 ```
 
 If any file is missing keys or contains extra ones, the script will list them.
+This check is also executed automatically in our CI workflow whenever you push or
+open a pull request.
 
 ## Copyright and Usage Notice
 ### About This Repository
