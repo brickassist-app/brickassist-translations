@@ -231,7 +231,7 @@
     "youHaveToMarkANeededPart": "Tu ne recherches actuellement aucune pièce !\n\nPour noter une pièce comme étant recherchée, tu dois avoir au moins un stock de pièces avec l'option 'Ajouter à ma liste de recherche' de cochée.",
     "youDoNotHaveAnyMatch": "Aucune des pièces que tu recherches n'apparait actuellement dans les PAB que tu as en favoris.\nRetente ta chance à leur prochaine mise à jour !",
     "whereToFindWhatImLookingFor": "Où trouver ce que je cherche :",
-    "amongYourXFavoritePABs": "Parmis tes {count} PAB favoris",
+    "amongYourXFavoritePABs": "Parmi tes {count} PAB favoris",
     "pabDoNotHaveCoverPhoto": "Ce store a besoin d'une photo de couverture !\nTu peux nous en envoyer une en allant dans Configuration ! Merci d'avance !",
     "pabNeedsConfiguration": "Ce PAB a besoin que tu mettes à jour sa configuration",
     "pabNoCoverImage": "Aucune image de couverture",
