@@ -1,0 +1,14 @@
+name: ARB Key Consistency
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check-keys:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run key consistency check
+        run: python3 scripts/check_arb_keys.py

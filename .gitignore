@@ -1,3 +1,9 @@
+# Ignore editor or OS temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or build artifacts
+*.log
 .*
 !.gitignore
 !.github/
