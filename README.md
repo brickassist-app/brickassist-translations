@@ -87,3 +87,6 @@ For inquiries regarding the usage of content within this repository or for permi
 Thanks to Pascaline, Julie, Sham and JDLien.
 
 Your work on translating is greatly appreciated. Thank you for your time and dedication to making our project accessible in multiple languages.
+
+## Automated Validation
+A GitHub Actions workflow automatically checks the formatting of translation files on each push and pull request.
