@@ -96,6 +96,9 @@ Contributions made to this repository are subject to the repository's license ag
 For inquiries regarding the usage of content within this repository or for permission to use content outside the scope of the BrickAssist application, please contact BrickAssist at sebastien.turrel@brickassist.com.
 
 ##  Acknowledgements
-Thanks to Pascaline, Julie, Sham and JDLien.
+Thanks to Pascaline, Julie, Sham, JDLien and Kiwo
 
 Your work on translating is greatly appreciated. Thank you for your time and dedication to making our project accessible in multiple languages.
+
+## Automated Validation
+A GitHub Actions workflow automatically checks the formatting of translation files on each push and pull request.
