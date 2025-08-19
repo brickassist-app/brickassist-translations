@@ -354,5 +354,10 @@
     "language": "Sprache",
     "commentIfRefused": "Kommentar bei Ablehnung",
     "accept": "Akzeptieren",
-    "refuse": "Ablehnen"
+    "refuse": "Ablehnen",
+    "updated": "Aktualisiert",
+    "takeInventorySomethingChanged": "Hat sich etwas geändert?",
+    "takeInventoryContentHasChanged": "Inhalt hat sich geändert",
+    "takeInventoryOnlyTheQuantityHasChanged": "Nur die Menge",
+    "emptylist": "Leere Liste"
 }
