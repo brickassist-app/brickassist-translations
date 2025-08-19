@@ -354,5 +354,10 @@
     "language": "Language", "@language": {"description": "Language"},
     "commentIfRefused": "Comment if refused", "@commentIfRefused": {"description": "Comment if refused"},
     "accept": "Accept", "@accept": {"description": "Action to accept something"},
-    "refuse": "Refuse", "@refuse": {"description": "Action to refuse something"}
+    "refuse": "Refuse", "@refuse": {"description": "Action to refuse something"},
+    "updated": "Updated", "@updated": {"description": "Something was recently updated"},
+    "takeInventorySomethingChanged": "Has something changed?", "@takeInventorySomethingChanged": {"description": "Has last inventory changed on that slot?"},
+    "takeInventoryContentHasChanged": "Content has changed", "@takeInventoryContentHasChanged": {"description": "Slot's content has changed"},
+    "takeInventoryOnlyTheQuantityHasChanged": "Only the quantity", "@takeInventoryOnlyTheQuantityHasChanged": {"description": "Only the quantity of parts has changed"},
+    "emptylist": "Empty list", "@emptylist": {"description": "The supposed list to show is empty"}
 }
