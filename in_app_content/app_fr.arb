@@ -244,7 +244,7 @@
     "ok": "OK",
     "changeCoverImage": "Changer l'image de couverture",
     "pabCoverImageWarningMessage1": "- L'image de couverture d'un PAB est obligatoirement en paysage.",
-    "pabCoverImageWarningMessage2": "- Afin de respecter les droits de chacun, aucun visage de doit être visible sur la photo.",
+    "pabCoverImageWarningMessage2": "- Afin de respecter les droits de chacun, aucun visage ne doit être visible sur la photo.",
     "pabCoverImageWarningMessage3": "- Je sais que cela est difficile mais... il ne faut PAS que le carré rouge de la marque Danoise apparaisse sur la photo. Ils ne nous ont pas encore autorisé à le faire :)",
     "pabCoverImageExplainGoal": "Cette image a pour but de représenter le mieux possible le magasin. Elle peut contenir uniquement le mur PAB ou bien le magasin dans son ensemble.",
     "chooseAPicture": "Choisir une photo",
